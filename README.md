@@ -1,3 +1,3 @@
 # starbuck-clone-landing-page
 
-a Landing page starbucks clone with html, css, and javasripct
+a Landing page starbucks clone made by html, css, and javasripct
